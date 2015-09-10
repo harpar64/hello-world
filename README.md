@@ -1,5 +1,2 @@
 # repository
-hello-world
-this is just an experimental repository
-with a commit
-yay
+now i want to merge the other way around
